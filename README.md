@@ -9,14 +9,14 @@ Level:Level 1 — EDA on Retail Sales Data
  📌 Project Objective
 
 Perform an in-depth **Exploratory Data Analysis (EDA)** on real toy store sales data to uncover key patterns and generate actionable business insights.
-
+---
 
  📂 Dataset
 
 - Source: [Sample Sales Data — Kaggle](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
 - Contents:Order details, order date, sales amount, country, deal size, status, and more.
 - File: `sales_data_sample.csv`
-
+---
 
 🔍 Analysis Tasks
 
@@ -27,7 +27,7 @@ Perform an in-depth **Exploratory Data Analysis (EDA)** on real toy store sales 
 ✔️ Checked order status distribution to spot potential issues  
 ✔️ Created a correlation heatmap for numeric features
 
-
+---
 
 📈 Key Insights
 
@@ -37,7 +37,7 @@ Perform an in-depth **Exploratory Data Analysis (EDA)** on real toy store sales 
 -Status: Most orders ship successfully — maintaining low dispute rates will keep customers happy.
 - Correlation: Quantity ordered strongly impacts total sales — promotions that increase order size can boost revenue.
 
-
+---
  💡 Recommendations
 
 - Focus marketing efforts on top countries.
@@ -45,7 +45,7 @@ Perform an in-depth **Exploratory Data Analysis (EDA)** on real toy store sales 
 - Encourage bulk purchases or large deals.
 - Monitor shipping & dispute statuses closely for smooth operations.
 
-
+---
 
  🛠️ Tools Used
 
