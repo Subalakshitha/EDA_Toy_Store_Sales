@@ -1,2 +1,1 @@
-# EDA_Toy_Store_Sales
-Exploratory Data Analysis on Toy Store Sales | Oasis Infobyte Internship
+[README.md](https://github.com/user-attachments/files/21196159/README.md)
